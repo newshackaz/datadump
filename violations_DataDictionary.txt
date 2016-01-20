@@ -1,0 +1,28 @@
+SCHEMA FOR HCD_VIOLATIONS FILE
+-------------------------------
+
+XCoord = X coordinate of address (NAD 1983 HARN StatePlane Arizona Central FIPS 0202 (Intl Feet))
+
+YCoord = Y coordinate of address (NAD 1983 HARN StatePlane Arizona Central FIPS 0202 (Intl Feet))
+
+ACT_NUM = activity number
+
+STATUS_1 = status of violation (see domain below for description of possible values)
+courtprs - cases where a citation was issued, case was heard in court, owner did not comply and violation is of sort where city prosecutor will now file a criminal action. (No longer used)
+court - citation was issued and case has now been heard in court
+citation - case is open, owner has not responded to Notice therefore a citation has been issued
+permit - Case opened and owner issued Notice to obtain permit for work done that needs one. Permit has then been issued and inspector is waiting for permit inspections by PDSD to be completed.
+pending - case opened, violation(s) identified and Notice has been mailed out. Waiting for compliance.
+observe - typically used for cases where the owner is granted time to comply either though an appeal or other administrative extensions where the inspector is not required to inspect every 30 days.
+field - newly opened case where inspection has not occurred yet
+
+TYPE_DESC = description of activity number type
+
+DT_ENT = date complaint was received
+
+DESCRIPTION = description of complaint received
+
+ADDRESSFULL = address record actually matched to
+
+NAME = name of registered neighborhood association address is in
+
