@@ -1,0 +1,99 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 ArialMT;\f2\fnil\fcharset0 Calibri;
+}
+{\colortbl;\red255\green255\blue255;\red26\green26\blue26;\red255\green255\blue255;\red24\green55\blue106;
+\red16\green60\blue192;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 Data description from Perla Trevizo:\
+\
+\pard\pardeftab720
+
+\f1\fs26 \cf2 \cb3 Hello,\
+\
+I requested this a while ago and never did much with it. Not sure if it's too convoluted for this weekend, but here it is. I'll share with you the excel sheets and the originals via google drive. But here's the background of what I was asking for and what I got:\
+\
+My request:\
+I want the following information broken down by juvenile category and either court or judge for fy 2010, 2011, 2012, 2013 and so far 2014. Since I'm including a lot of tables, would it be easier to request the raw data so I could pull this information out myself?\
+\'a0\
+* Cases received and completed\
+* Immigration court cases received by case type\
+* Immigration court initial case completions by case type\
+* Immigration court subsequent case completion by case type\
+* IJ decisions by disposition - initial case completions\
+* IJ decisions by disposition - subsequent case completions\
+* Other completions by disposition - initial case completions\
+* Other completions by disposition - subsequent case completions\
+* changes of venue and transfers\
+* Initial case completions by country of nationality\
+* Initial case completions representation in immigration courts\
+* Immigration court asylum receipts\
+* Immigration court asylum completions\
+* Immigration court affirmative grant rate\
+* Immigration court defensive grant rate\
+* Asylum completions by disposition\
+* Immigration court withholding of removal grant rate\
+* Asylum grants by country of nationality\
+* (Table 16) grants of relief\
+* Initial case completions IJ removal decisions compared to voluntary departure decisions\
+* In absentia rates - initial case completions\
+* In absentia rates for never detained aliens - initial case completions\
+* In absentia rates for released aliens - initial case completions\
+In absentia rates for non-detained aliens - initial case compeltions\
+* BIA receipts by case type\
+* BIA completions by case type\
+* Immigration court pending cases\
+* BIA pending cases\
+\
+\
+\
+\pard\pardeftab720
+
+\f2\fs30 \cf4 The attached workbook is composed of statistics of BIA appeal completions in juvenile cases from FY 2010-14.\'a0 (The FY 2014 data goes through March 31, only.)\'a0 Please note that, although we do track \'93juvenile\'94 data, these statistics reflect data concerning cases marked with a juvenile case identifier code.\'a0 Cases with a juvenile identifier can refer to four different categories of individuals, only some of whom are unaccompanied minors.\'a0 At this time, we do not have statistics available that relate only to unaccompanied minors. \
+\
+\pard\pardeftab720
+
+\f1\fs26 \cf2 \
+\pard\pardeftab720
+
+\f2\fs30 \cf4 The attached workbook is composed of statistics of BIA appeal completions in juvenile cases from FY 2010-14.\'a0 (The FY 2014 data goes through March 31, only.)\'a0 Please note that, although we do track \'93juvenile\'94 data, these statistics reflect data concerning cases marked with a juvenile case identifier code.\'a0 Cases with a juvenile identifier can refer to four different categories of individuals, only some of whom are unaccompanied minors.\'a0 At this time, we do not have statistics available that relate only to unaccompanied minors. \
+\
+\pard\pardeftab720
+
+\f1\fs26 \cf2 \
+\pard\pardeftab720
+
+\f2\fs30 \cf4 EOIR has four data categories that reference juveniles, though none of those four categories match the UAC legal definition. \'a0
+\f1\fs26 \cf2 \
+
+\f2\fs30 \cf4 \'a0
+\f1\fs26 \cf2 \
+
+\f2\fs30 \cf4 J, this code is used in instances where a child in proceedings has a parent or legal guardian in the United States who is providing care and physical custody;
+\f1\fs26 \cf2 \
+
+\f2\fs30 \cf4 \'a0
+\f1\fs26 \cf2 \
+
+\f2\fs30 \cf4 UJ, this code is used in instances where a child in proceedings has no parent or guardian in the United States or no parent or legal guardian in the United States available to provide care and physical custody; and
+\f1\fs26 \cf2 \
+
+\f2\fs30 \cf4 \'a0
+\f1\fs26 \cf2 \
+
+\f2\fs30 \cf4 J2, this code applies to individuals covered under the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008.\'a0
+\f1\fs26 \cf2 \
+
+\f2\fs30 \cf4 \'a0
+\f1\fs26 \cf2 \
+
+\f2\fs30 \cf4 EOIR also collects data under a J1 code.\'a0 This code is used when a child who originally had no parent or legal guardian and was in the custody of DHS or ORR was released from DHS or ORR custody to a sponsor, parent, or legal guardian.\'a0 The J1 code is also used if a child who had been included in the UJ category attains the age of 18 while still in proceedings.\'a0 As the J1 code includes children who have reached 18 or are released from DHS or ORR custody, we do not include the individuals coded in this category when determining juvenile statistics.
+\f1\fs26 \cf2 \
+
+\f2\fs30 \cf4 \'a0
+\f1\fs26 \cf2 \
+
+\f2\fs30 \cf4 We are currently evaluating other ways in which to better gather data related to juveniles.\'a0 Additionally, with the advent of our new pilot program in coordination with the Corporation for National and Community Service (see{\field{\*\fldinst{HYPERLINK "http://www.justice.gov/eoir/press/2014/JusticeAmeriCorpsRelease06062014.pdf"}}{\fldrslt \cf5 \ul \ulc5 http://www.justice.gov/\ulnone eoir\ul /press/2014/JusticeAmeriCorpsRelease06062014.pdf}} for more information), we will be collecting new data on the subject of unaccompanied minors.
+\f1\fs26 \cf2 \
+}
